@@ -8,11 +8,11 @@ namespace ProjetoMeuChef
 {
     public class CredenciaisFuncionarios
     {
-        public int funcionario {  get; set; }
-        public int senha { get; set; }
-        public int cargo { get; set; }
+        public string funcionario {  get; set; }
+        public string senha { get; set; }
+        public string cargo { get; set; }
 
-        public CredenciaisFuncionarios(int NomeFuncionario, string SenhaFuncionario)
+        public CredenciaisFuncionarios(string NomeFuncionario, string SenhaFuncionario, string Funcao)
         {
             funcionario = NomeFuncionario;
             senha = SenhaFuncionario;

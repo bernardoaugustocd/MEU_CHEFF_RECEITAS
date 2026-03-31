@@ -10,3 +10,7 @@ C:\Users\m\Downloads\MEUCHEF_RECEITAS_INTERFACE-main\MEUCHEF_RECEITAS_INTERFACE-
 C:\Users\m\Downloads\MEUCHEF_RECEITAS_INTERFACE-main\MEUCHEF_RECEITAS_INTERFACE-main\ProjetoMeuChef\obj\Debug\ProjetoMeuChef.csproj.CoreCompileInputs.cache
 C:\Users\m\Downloads\MEUCHEF_RECEITAS_INTERFACE-main\MEUCHEF_RECEITAS_INTERFACE-main\ProjetoMeuChef\obj\Debug\ProjetoMeuChef.exe
 C:\Users\m\Downloads\MEUCHEF_RECEITAS_INTERFACE-main\MEUCHEF_RECEITAS_INTERFACE-main\ProjetoMeuChef\obj\Debug\ProjetoMeuChef.pdb
+C:\Users\1086053\Documents\GitHub\MEU_CHEFF_RECEITAS\APLICATIVO_MEU_CHEFF_RECEITAS-main\ProjetoMeuChef\obj\Debug\ProjetoMeuChef.csproj.AssemblyReference.cache
+C:\Users\1086053\Documents\GitHub\MEU_CHEFF_RECEITAS\APLICATIVO_MEU_CHEFF_RECEITAS-main\ProjetoMeuChef\obj\Debug\ProjetoMeuChef.exe.config
+C:\Users\1086053\Documents\GitHub\MEU_CHEFF_RECEITAS\APLICATIVO_MEU_CHEFF_RECEITAS-main\ProjetoMeuChef\obj\Debug\ProjetoMeuChef.exe
+C:\Users\1086053\Documents\GitHub\MEU_CHEFF_RECEITAS\APLICATIVO_MEU_CHEFF_RECEITAS-main\ProjetoMeuChef\obj\Debug\ProjetoMeuChef.pdb

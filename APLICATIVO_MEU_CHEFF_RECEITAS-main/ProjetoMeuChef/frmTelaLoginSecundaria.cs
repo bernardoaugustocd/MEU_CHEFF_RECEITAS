@@ -19,13 +19,13 @@ namespace ProjetoMeuChef
 
         private void btnEntreAqui_Click(object sender, EventArgs e)
         {
-            int NomeFuncionario = txtNomeFuncionario.Text;
-            int SenhaFuncionario = txtSenhaFuncionario.Text;
+            string NomeFuncionario = txtNomeFuncionario.Text;
+            string SenhaFuncionario = txtSenhaFuncionario.Text;
             string Funcao = cbFuncionarios.Text;
 
-            CredenciaisFuncionarios cf = new CredenciaisFuncionarios();
+            CredenciaisFuncionarios cf = new CredenciaisFuncionarios(NomeFuncionario, SenhaFuncionario, Funcao);
 
-            if (cf.CredenciaisAjudante)
+            if (cf.CredenciaisAjudante())
             {
                 this.Visible = false;//fecha a tela
             }
